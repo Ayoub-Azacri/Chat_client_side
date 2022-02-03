@@ -1,0 +1,10 @@
+install 3 dependecies : - npm install stream-chat stream-chat-react universal-cookie axios
+
+universal-cookie ( we gonna use cookies to save the user infomration in the browser )
+
+rafce react arrow function component
+
+
+
+- preventDefault() ===> this functions allows us to prevent the page
+                        from reloading whenever we click a button ( to react instanteniace)
